@@ -37,3 +37,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# files to ignore
+/Setting_up_Python.pdf
